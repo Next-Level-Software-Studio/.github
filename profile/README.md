@@ -1,1 +1,1 @@
-Nós, a Next Level Software Studio, somos uma organização empenhada a criar software, para múltiplos sistemas operativos.
+We, Next Level Software Studio, are an organization focused on creating software for multiple operating systems.
