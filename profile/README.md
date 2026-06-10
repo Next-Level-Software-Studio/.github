@@ -3,7 +3,7 @@
 Bem-vindos ao perfil oficial da **Next Level Software Studio**.
 Somos um estúdio de desenvolvimento de software independente, sediado em Portugal, focado na criação de soluções tecnológicas de alto desempenho, infraestrutura de sistemas e engenharia de software robusta e moderna.
 
-A nossa filosofia passa por elevar o nível do desenvolvimento de software, focando-nos no desenho e engenharia de aplicações e utilitários multiplataforma para diferentes sistemas operativos — desde ecossistemas como o **Windows**, até distribuições Linux avançadas como o **Gentoo** e o nosso próprio ecossistema, o **Bit-OS**. Unimos a eficiência e o controlo das linguagens de sistema com a agilidade, automação e dinamismo das tecnologias web e de script.
+A nossa filosofia passa por elevar o nível do desenvolvimento de software, focando-nos no desenho e engenharia de aplicações e utilitários multiplataforma para diferentes sistemas operativos.
 
 ---
 
