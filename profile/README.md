@@ -14,12 +14,4 @@ A NLSS é movida pelo desafio de construir ecossistemas completos, entregando de
 * 🔒 **Segurança & Infraestrutura:** Implementação de políticas estritas de isolamento, automação de tarefas e manutenção de repositórios Linux avançados.
 
 ---
-
-### 💻 O Nosso Stack Técnico
-As nossas escolhas tecnológicas permitem-nos transitar com facilidade entre o núcleo do sistema e a experiência final do utilizador em qualquer plataforma:
-* **Sistemas & Automação:** C e Bash.
-* **Lógica & Scripting Avançado:** Python.
-* **Web & Interfaces:** HTML, CSS e JavaScript.
-
----
 🛸 *A projetar o próximo nível do desenvolvimento de software.*
